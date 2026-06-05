@@ -26,10 +26,8 @@ This project aims to automate and monitor the drying process of herbs to maintai
 3. **Action:** If the humidity is too high or temperature is too low, the system triggers the relays to turn on the fan or heater.
 4. **Monitoring:** All data is transmitted to the dashboard for user observation.
 
-## How to Run the Project
-1. Clone this repository:
-```bash
-   git clone [https://github.com/apfirst13/smart-dryHerb.git](https://github.com/apfirst13/smart-dryHerb.git)
+
+git clone [https://github.com/apfirst13/smart-dryHerb.git](https://github.com/apfirst13/smart-dryHerb.git)
 <img width="1107" height="611" alt="image" src="https://github.com/user-attachments/assets/44015169-b85f-4a94-b755-4a375d65fdef" />
 
 <img width="962" height="485" alt="image" src="https://github.com/user-attachments/assets/775ed805-17f5-4249-b658-715d7038fb04" />
